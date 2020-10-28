@@ -34,6 +34,19 @@
 <br />
 <img width="550px" alt="Toufik Hasan Github Stats"  src="https://github-readme-stats.vercel.app/api?username=solaimanshadin&show_icons=true"/>
 
+
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=solaimanshadin&card_width=550)](https://github.com/solaimanshadin/solaimanshadin)
+
+
+[programming]: https://www.programming-hero.com/
+[website]: https://shadin.netlify.app/
+[twitter]: https://shadin.netlify.app/
+[linkedin]: https://shadin.netlify.app/
+[webdevplaylist]: https://shadin.netlify.app/
+[jsplaylist]: https://shadin.netlify.app/
+[cssplaylist]: https://shadin.netlify.app/
+[reactplaylist]: https://shadin.netlify.app/
+
 ### About Me
 
 Hi, I am Toufik Hasan, I am a professional web developer. I like JavaScript as the programming language. I have been working with JavaScript for a long time. And I always love learning something. And I like hardworking a lot.
