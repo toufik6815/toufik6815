@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am TOUFIK HASAN
 
 <!--
 **toufik6815/toufik6815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About Me
+Hi, I am Toufik Hasan, I am a professional web developer. I like JavaScript as the programming language. I have been working with JavaScript for a long time. And I always love learning something. And I like hardworking a lot.
+
+[My Protfolio Website](https://toufik.netlify.app/ "Toufik")
