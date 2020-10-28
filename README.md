@@ -26,8 +26,15 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<br/>
+<br />
+
+<br />
+
+<br />
+<br />
+<img width="550px" alt="Toufik Hasan Github Stats"  src="https://github-readme-stats.vercel.app/api?username=solaimanshadin&show_icons=true"/>
 
 ### About Me
+
 Hi, I am Toufik Hasan, I am a professional web developer. I like JavaScript as the programming language. I have been working with JavaScript for a long time. And I always love learning something. And I like hardworking a lot.
 
