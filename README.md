@@ -1,4 +1,4 @@
-# Hi there, 👋 I am [TOUFIK HASAN](https://toufik.netlify.app/ "Toufik Portfolio Website")
+# Hi there, I am [TOUFIK HASAN](https://toufik.netlify.app/ "Toufik Portfolio Website")
 
 <br/>
 
@@ -13,9 +13,9 @@ And I always love learning something. And I like hardworking a lot.
 
 <br/>
 
-## I'm a 😍😍 JavaScript Lover 😍😍!
+## I'm a JavaScript & React Lover!
 - 🔭 I’m currently working on [IT Garden Ltd.](https://itgardenltd.com/ "IT Garden")
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything.
 - 🥅 2020 Goals: Learn React, React Native, Node.js, SQL, Python.
 - ⚡ Fun fact: I love to travel & Explore the world.
 
