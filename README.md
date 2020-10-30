@@ -1,6 +1,8 @@
 # Hi there, I am [TOUFIK HASAN](https://toufik-portfolio.web.app/ "Toufik Portfolio Website")
 
 <br/>
+<img align="left" alt="GitHub" width="100px" src="https://i.ibb.co/LJq3Qzg/Hi.gif" />
+<br/>
 
 ### About Me
 Hi, I am Toufik Hasan, I am a professional web developer.
@@ -14,7 +16,7 @@ And I always love learning something. And I like hardworking a lot.
 <br/>
 
 ## I'm a JavaScript & React Lover!
-- 🔭 I’m currently working on [IT Garden Ltd.](https://itgardenltd.com/ "IT Garden")
+- 🔭 I’m currently working on [IT Garden Ltd.](https://itgardenltd.com/ "IT Garden Limited Company")
 - 🌱 I’m currently learning everything.
 - 🥅 2020 Goals: Learn React, React Native, Node.js, SQL, Python.
 - ⚡ Fun fact: I love to travel & Explore the world.
