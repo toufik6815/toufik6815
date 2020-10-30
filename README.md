@@ -1,11 +1,5 @@
 # Hi there, I am [TOUFIK HASAN](https://toufik-portfolio.web.app/ "Toufik Portfolio Website")
 
-<br/>
-<img align="left" alt="GitHub" width="250px" src="https://i.ibb.co/LJq3Qzg/Hi.gif" />
-<br/>
-<br/>
-<br/>
-
 ### About Me
 Hi, I am Toufik Hasan, I am a professional web developer.
 <br/>
