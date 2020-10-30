@@ -1,5 +1,6 @@
-<img align="left" alt="GitHub" width="26px" src="https://i.ibb.co/LJq3Qzg/Hi.gif" />
-# Hi there, I am [TOUFIK HASAN](https://toufik.netlify.app/ "Toufik Portfolio Website")
+<img align="left" alt="GitHub" width="100px" src="https://i.ibb.co/LJq3Qzg/Hi.gif" />
+<br/>
+# Hi there, I am [TOUFIK HASAN](https://toufik-portfolio.web.app/ "Toufik Portfolio Website")
 
 <br/>
 
