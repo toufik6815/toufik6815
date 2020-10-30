@@ -13,13 +13,13 @@
 
 - 🥅 2020 Goals **Learn React, React Native, Node.js, SQL, Python**
 
-- 👨‍💻 All of my projects are available at [https://toufik-portfolio.web.app/](https://toufik-portfolio.web.app/)
+- 🌐 My Portfolio Website [toufik-portfolio.web.app](https://toufik-portfolio.web.app/ "My Website")
 
-- 💬 Ask me about **Hi, I am Toufik Hasan, I am a professional web developer. I like JavaScript as the programming language. I have been working with JavaScript for a long time.**
+- 💬 About me **Hi, I am Toufik Hasan, I am a professional web developer. I like JavaScript as the programming language. I have been working with JavaScript for a long time.**
 
-- 📫 How to reach me **toufikhasantanbir@gmail.com**
+- 📫 How to reach me **[toufikhasantanbir@gmail.com](mailto:toufikhasantanbir@gmail.com)**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lQYtfZN7b76KEKmigs8VunyTMYvHfUSL/view?usp=sharing](https://drive.google.com/file/d/1lQYtfZN7b76KEKmigs8VunyTMYvHfUSL/view?usp=sharing)
+- 📄 Know about my experiences **[My Resume](https://drive.google.com/file/d/1lQYtfZN7b76KEKmigs8VunyTMYvHfUSL/view?usp=sharing "Toufik Resume")**
 
 - ⚡ Fun fact **I love to travel & Explore the world**
 
