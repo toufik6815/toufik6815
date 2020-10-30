@@ -1,7 +1,9 @@
 # Hi there, I am [TOUFIK HASAN](https://toufik-portfolio.web.app/ "Toufik Portfolio Website")
 
 <br/>
-<img align="left" alt="GitHub" width="100px" src="https://i.ibb.co/LJq3Qzg/Hi.gif" />
+<img align="left" alt="GitHub" width="250px" src="https://i.ibb.co/LJq3Qzg/Hi.gif" />
+<br/>
+<br/>
 <br/>
 
 ### About Me
